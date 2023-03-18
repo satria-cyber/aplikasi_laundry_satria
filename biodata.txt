@@ -1,0 +1,8 @@
+JUDUL : Aplikasi Pengelolaan Laundry
+NAMA  : Satria Aji
+KELAS : XII RPL 2
+
+link github :
+https://github.com/satria-cyber/aplikasi_laundry_satria
+link hosting :
+laundrykazuha.000.webhostapp.com
